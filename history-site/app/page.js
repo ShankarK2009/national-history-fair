@@ -17,7 +17,7 @@ export default function Home() {
           </p>
           
           <ImageBlock 
-            src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Worse_than_Slavery_Thomas_Nast.jpg"
+            src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Worse_than_Slavery_%281874%29%2C_by_Thomas_Nast.jpg"
             alt="Worse than Slavery cartoon by Thomas Nast"
             citation='Nast, Thomas. "Worse Than Slavery." Harper&apos;s Weekly, 1874. Wikimedia Commons.'
           />

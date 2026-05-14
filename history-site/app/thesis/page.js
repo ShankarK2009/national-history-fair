@@ -18,7 +18,7 @@ export default function Thesis() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/1/18/The_First_Vote.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/0/05/%22The_first_vote%22_by_A.R._Waud_Harper%27s_Weekly_1867-11-16_Retrieved_from_the_Library_of_Congress.jpg"
         alt="The First Vote by A.R. Waud"
         citation='Waud, A.R. "The First Vote." Harper&apos;s Weekly, 1867. Wikimedia Commons.'
       />

@@ -11,7 +11,7 @@ export default function Legacy() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colfax_Massacre_historical_marker_in_Colfax%2C_LA_IMG_2644.JPG/800px-Colfax_Massacre_historical_marker_in_Colfax%2C_LA_IMG_2644.JPG"
+        src="https://upload.wikimedia.org/wikipedia/commons/5/53/Colfax_Riot_sign_IMG_2401.JPG"
         alt="Colfax Massacre Historical Marker"
         citation='Colfax Massacre Historical Marker in Colfax, LA. Wikimedia Commons.'
       />
@@ -21,7 +21,7 @@ export default function Legacy() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/d/df/Morrison_Waite_-_Brady-Handy.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Chief_Justice_Morrison_Waite.jpg"
         alt="Chief Justice Morrison Waite"
         citation='Chief Justice Morrison Waite. Brady-Handy Photograph Collection. Wikimedia Commons.'
       />
@@ -32,7 +32,7 @@ export default function Legacy() {
       </p>
       
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Homer_Plessy.jpg/800px-Homer_Plessy.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Plessy_marker-back.jpg"
         alt="Homer Plessy"
         citation='Homer Plessy. Wikimedia Commons.'
       />
@@ -43,7 +43,7 @@ export default function Legacy() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/March_on_Washington_for_Jobs_and_Freedom_-_Civil_Rights_March_on_Washington%2C_D.C.jpg/800px-March_on_Washington_for_Jobs_and_Freedom_-_Civil_Rights_March_on_Washington%2C_D.C.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/5/54/Civil_Rights_March_on_Washington%2C_D.C._%28Dr._Martin_Luther_King%2C_Jr._and_Mathew_Ahmann_in_a_crowd.%29_-_NARA_-_542015.jpg"
         alt="Civil Rights March on Washington (1963)"
         citation='March on Washington for Jobs and Freedom. 1963. Wikimedia Commons.'
       />

@@ -15,7 +15,7 @@ export default function Details() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku_Klux_Klan_Virgina_1868.jpg/800px-Ku_Klux_Klan_Virgina_1868.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/8/81/Ku_Klux_Klan_%28L%27Ev%C3%A9nement_illustr%C3%A9%2C_1868-06-08%29.jpg"
         alt="Ku Klux Klan members in Tennessee (1868)"
         citation='Ku Klux Klan members in Tennessee. 1868. Wikimedia Commons.'
       />
@@ -26,7 +26,7 @@ export default function Details() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Enforcement_Act_of_1870.jpg/800px-Enforcement_Act_of_1870.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/90/Enforcement_Act_of_1870.png"
         alt="Enforcement Act of 1870 Document"
         citation='Enforcement Act of 1870. National Archives and Records Administration. Wikimedia Commons.'
       />
@@ -37,7 +37,7 @@ export default function Details() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/a/af/The_Union_as_it_was_Thomas_Nast.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Union_as_it_was_%281874%29%2C_by_Thomas_Nast.jpg/800px-The_Union_as_it_was_%281874%29%2C_by_Thomas_Nast.jpg"
         alt="The Union as it was cartoon by Thomas Nast"
         citation='Nast, Thomas. "The Union As It Was / This Is A White Man&apos;s Government." Harper&apos;s Weekly, 1874. Wikimedia Commons.'
       />
@@ -48,7 +48,7 @@ export default function Details() {
       </p>
       
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ulysses_Grant_1870-1880.jpg/800px-Ulysses_Grant_1870-1880.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Ulysses_S._Grant_1870-1880.jpg"
         alt="President Ulysses S. Grant"
         citation='President Ulysses S. Grant. Brady-Handy Photograph Collection. Wikimedia Commons.'
       />
