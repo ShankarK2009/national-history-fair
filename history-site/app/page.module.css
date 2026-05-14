@@ -1,0 +1,22 @@
+.heroContainer {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: radial-gradient(circle at center top, #1f1a15 0%, #111111 70%);
+}
+
+.heroContent {
+  width: 100%;
+  text-align: center;
+  padding-top: 6rem;
+}
+
+.subtitle {
+  color: var(--primary);
+  font-family: var(--font-inter), sans-serif;
+  font-weight: 300;
+  border: none;
+  margin-top: 1rem;
+  letter-spacing: 1px;
+}
