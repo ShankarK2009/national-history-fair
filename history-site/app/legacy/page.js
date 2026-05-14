@@ -43,7 +43,7 @@ export default function Legacy() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/5/54/Civil_Rights_March_on_Washington%2C_D.C._%28Dr._Martin_Luther_King%2C_Jr._and_Mathew_Ahmann_in_a_crowd.%29_-_NARA_-_542015.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/1/15/Civil_Rights_March_on_Washington%2C_D.C._%28Dr._Martin_Luther_King%2C_Jr._and_Mathew_Ahmann_in_a_crowd.%29_-_NARA_-_542015_-_Restoration.jpg"
         alt="Civil Rights March on Washington (1963)"
         citation='March on Washington for Jobs and Freedom. 1963. Wikimedia Commons.'
       />

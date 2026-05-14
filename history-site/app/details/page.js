@@ -37,7 +37,7 @@ export default function Details() {
       </p>
 
       <ImageBlock 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Union_as_it_was_%281874%29%2C_by_Thomas_Nast.jpg/800px-The_Union_as_it_was_%281874%29%2C_by_Thomas_Nast.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b5/%22This_is_a_White_Man%27s_Government%21%22_%28September_1868%29%2C_by_Thomas_Nast.jpg"
         alt="The Union as it was cartoon by Thomas Nast"
         citation='Nast, Thomas. "The Union As It Was / This Is A White Man&apos;s Government." Harper&apos;s Weekly, 1874. Wikimedia Commons.'
       />
