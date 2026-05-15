@@ -13,12 +13,13 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" data-scroll-behavior="smooth">
       <body className={`${inter.variable} ${playfair.variable} ${inter.className}`}>
         <nav className={styles.navbar}>
           <div className={styles.navContainer}>
             <Link href="/" className={styles.logo}>
-              History Fair
+              <span>History Fair</span>
+              <small>Reconstruction</small>
             </Link>
             <ul className={styles.navLinks}>
               <li><Link href="/">Home</Link></li>
@@ -32,7 +33,7 @@ export default function RootLayout({ children }) {
         </nav>
         <main>{children}</main>
         <footer className={styles.footer}>
-          <p>© 2025 APUSH History Fair Project. Revolution, Reaction, & Reform.</p>
+          <p>APUSH History Fair Project · Revolution, Reaction, and Reform</p>
         </footer>
       </body>
     </html>
