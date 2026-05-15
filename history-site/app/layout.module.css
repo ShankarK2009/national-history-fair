@@ -90,6 +90,12 @@
   text-transform: uppercase;
 }
 
+.footerDetails {
+  margin-top: 0.75rem !important;
+  font-size: 0.76rem !important;
+  line-height: 1.7;
+}
+
 @media (max-width: 860px) {
   .navbar {
     position: relative;
