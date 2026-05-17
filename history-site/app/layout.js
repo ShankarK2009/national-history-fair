@@ -1,4 +1,5 @@
 import { Inter, Playfair_Display } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import Link from "next/link";
 import styles from "./layout.module.css";
@@ -38,6 +39,11 @@ export default function RootLayout({ children }) {
             Teacher: Mrs. Pierce · Year: 2026 · Group: Rohit Gaikoti, Maximillian Kolinski & Shankar Krishnamurthy
           </p>
         </footer>
+        <Script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js" strategy="afterInteractive" />
+        <Script
+          src="https://files.bpcontent.cloud/2026/05/15/13/20260515135834-01VFE0T9.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
