@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
         <footer className={styles.footer}>
           <p>APUSH History Fair Project · Revolution, Reaction, and Reform</p>
           <p className={styles.footerDetails}>
-            Teacher: Mrs. Pierce · Year: 2026 · Group: Rohit Gaikoti, Maximillian Kolinski & Shankar Krishnamurthy
+            Mrs. Pierce · 2026 · Rohit Gaikoti, Maximillian Kolinski & Shankar Krishnamurthy
           </p>
         </footer>
         <Script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js" strategy="afterInteractive" />
